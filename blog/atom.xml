@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/blog</id>
+    <title>SXAUEL</title>
+    <updated>2024-08-16T11:52:15.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/blog"/>
+    <subtitle>山西农业大学嵌入式实验室 Blog</subtitle>
+    <icon>https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/img/LabIconss.png</icon>
+    <rights>Copyright © 2024 SXAUEL Built with Docusaurus.&lt;p&gt;&lt;a href="http://beian.miit.gov.cn/" class="footer_lin"&gt;&lt;/a&gt;&lt;/p&gt;</rights>
+    <entry>
+        <title type="html"><![CDATA[constitution/2.实验室联系方式]]></title>
+        <id>https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/blog/constitution/2.实验室联系方式</id>
+        <link href="https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/blog/constitution/2.实验室联系方式"/>
+        <updated>2024-08-16T11:52:15.000Z</updated>
+        <summary type="html"><![CDATA[124564]]></summary>
+        <content type="html"><![CDATA[<p>124564</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[测试]]></title>
+        <id>https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/blog/introduction</id>
+        <link href="https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/blog/introduction"/>
+        <updated>2024-08-16T11:52:15.000Z</updated>
+        <summary type="html"><![CDATA[本页面为个人学习中所涉及相关技术栈的笔记汇总，包含但不限于]]></summary>
+        <content type="html"><![CDATA[<p>本页面为个人学习中所涉及相关技术栈的笔记汇总，包含但不限于</p>
+<ul>
+<li>Web</li>
+<li>前端</li>
+<li>后端</li>
+<li>Vue</li>
+<li>React</li>
+<li>JavaScript &amp; TypeScript</li>
+<li>Node</li>
+<li>安卓</li>
+<li>逆向</li>
+<li>HTTP</li>
+<li>算法</li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一、实验室规范]]></title>
+        <id>https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/blog/Laboratory-charter</id>
+        <link href="https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/blog/Laboratory-charter"/>
+        <updated>2024-08-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[好好学习，天天向上,努力上进]]></summary>
+        <content type="html"><![CDATA[<p>好好学习，天天向上,努力上进</p>]]></content>
+        <author>
+            <name>寒冰</name>
+        </author>
+        <category label="实验室" term="实验室"/>
+        <category label="章程" term="章程"/>
+        <category label="规范" term="规范"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[二、实验室培养方案]]></title>
+        <id>https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/blog/Laboratory-culture-protocol</id>
+        <link href="https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/blog/Laboratory-culture-protocol"/>
+        <updated>2024-08-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[咕咕咕]]></summary>
+        <content type="html"><![CDATA[<p>咕咕咕</p>]]></content>
+        <author>
+            <name>寒冰</name>
+        </author>
+        <category label="实验室" term="实验室"/>
+        <category label="章程" term="章程"/>
+        <category label="培养方案" term="培养方案"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[二、实验室培养方案]]></title>
+        <id>https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/blog/Laboratory-selection-regulations</id>
+        <link href="https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/blog/Laboratory-selection-regulations"/>
+        <updated>2024-08-07T00:00:00.000Z</updated>
+        <author>
+            <name>寒冰</name>
+        </author>
+        <category label="实验室" term="实验室"/>
+        <category label="章程" term="章程"/>
+        <category label="培养方案" term="培养方案"/>
+    </entry>
+</feed>

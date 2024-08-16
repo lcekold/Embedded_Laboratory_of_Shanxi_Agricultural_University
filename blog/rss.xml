@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SXAUEL</title>
+        <link>https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/blog</link>
+        <description>山西农业大学嵌入式实验室 Blog</description>
+        <lastBuildDate>Fri, 16 Aug 2024 11:52:15 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-CN</language>
+        <copyright>Copyright © 2024 SXAUEL Built with Docusaurus.&lt;p&gt;&lt;a href="http://beian.miit.gov.cn/" class="footer_lin"&gt;&lt;/a&gt;&lt;/p&gt;</copyright>
+        <item>
+            <title><![CDATA[constitution/2.实验室联系方式]]></title>
+            <link>https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/blog/constitution/2.实验室联系方式</link>
+            <guid>https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/blog/constitution/2.实验室联系方式</guid>
+            <pubDate>Fri, 16 Aug 2024 11:52:15 GMT</pubDate>
+            <description><![CDATA[124564]]></description>
+            <content:encoded><![CDATA[<p>124564</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[测试]]></title>
+            <link>https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/blog/introduction</link>
+            <guid>https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/blog/introduction</guid>
+            <pubDate>Fri, 16 Aug 2024 11:52:15 GMT</pubDate>
+            <description><![CDATA[本页面为个人学习中所涉及相关技术栈的笔记汇总，包含但不限于]]></description>
+            <content:encoded><![CDATA[<p>本页面为个人学习中所涉及相关技术栈的笔记汇总，包含但不限于</p>
+<ul>
+<li>Web</li>
+<li>前端</li>
+<li>后端</li>
+<li>Vue</li>
+<li>React</li>
+<li>JavaScript &amp; TypeScript</li>
+<li>Node</li>
+<li>安卓</li>
+<li>逆向</li>
+<li>HTTP</li>
+<li>算法</li>
+</ul>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[一、实验室规范]]></title>
+            <link>https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/blog/Laboratory-charter</link>
+            <guid>https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/blog/Laboratory-charter</guid>
+            <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[好好学习，天天向上,努力上进]]></description>
+            <content:encoded><![CDATA[<p>好好学习，天天向上,努力上进</p>]]></content:encoded>
+            <category>实验室</category>
+            <category>章程</category>
+            <category>规范</category>
+        </item>
+        <item>
+            <title><![CDATA[二、实验室培养方案]]></title>
+            <link>https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/blog/Laboratory-culture-protocol</link>
+            <guid>https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/blog/Laboratory-culture-protocol</guid>
+            <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[咕咕咕]]></description>
+            <content:encoded><![CDATA[<p>咕咕咕</p>]]></content:encoded>
+            <category>实验室</category>
+            <category>章程</category>
+            <category>培养方案</category>
+        </item>
+        <item>
+            <title><![CDATA[二、实验室培养方案]]></title>
+            <link>https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/blog/Laboratory-selection-regulations</link>
+            <guid>https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/blog/Laboratory-selection-regulations</guid>
+            <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
+            <category>实验室</category>
+            <category>章程</category>
+            <category>培养方案</category>
+        </item>
+    </channel>
+</rss>

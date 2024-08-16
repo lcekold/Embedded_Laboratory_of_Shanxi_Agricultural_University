@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkEmbedded_Laboratory_of_Shanxi_Agricultural_University=self.webpackChunkEmbedded_Laboratory_of_Shanxi_Agricultural_University||[]).push([[5980],{9365:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);

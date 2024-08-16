@@ -1,0 +1,73 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "SXAUEL",
+    "home_page_url": "https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/en/blog",
+    "description": "山西农业大学嵌入式实验室 Blog",
+    "items": [
+        {
+            "id": "https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/en/blog/constitution/2.实验室联系方式",
+            "content_html": "<p>124564</p>",
+            "url": "https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/en/blog/constitution/2.实验室联系方式",
+            "title": "constitution/2.实验室联系方式",
+            "summary": "124564",
+            "date_modified": "2024-08-16T11:52:15.000Z",
+            "tags": []
+        },
+        {
+            "id": "https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/en/blog/introduction",
+            "content_html": "<p>本页面为个人学习中所涉及相关技术栈的笔记汇总，包含但不限于</p>\n<ul>\n<li>Web</li>\n<li>前端</li>\n<li>后端</li>\n<li>Vue</li>\n<li>React</li>\n<li>JavaScript &amp; TypeScript</li>\n<li>Node</li>\n<li>安卓</li>\n<li>逆向</li>\n<li>HTTP</li>\n<li>算法</li>\n</ul>",
+            "url": "https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/en/blog/introduction",
+            "title": "测试",
+            "summary": "本页面为个人学习中所涉及相关技术栈的笔记汇总，包含但不限于",
+            "date_modified": "2024-08-16T11:52:15.000Z",
+            "tags": []
+        },
+        {
+            "id": "https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/en/blog/Laboratory-charter",
+            "content_html": "<p>好好学习，天天向上,努力上进</p>",
+            "url": "https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/en/blog/Laboratory-charter",
+            "title": "一、实验室规范",
+            "summary": "好好学习，天天向上,努力上进",
+            "date_modified": "2024-08-07T00:00:00.000Z",
+            "author": {
+                "name": "寒冰"
+            },
+            "tags": [
+                "实验室",
+                "章程",
+                "规范"
+            ]
+        },
+        {
+            "id": "https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/en/blog/Laboratory-culture-protocol",
+            "content_html": "<p>咕咕咕</p>",
+            "url": "https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/en/blog/Laboratory-culture-protocol",
+            "title": "二、实验室培养方案",
+            "summary": "咕咕咕",
+            "date_modified": "2024-08-07T00:00:00.000Z",
+            "author": {
+                "name": "寒冰"
+            },
+            "tags": [
+                "实验室",
+                "章程",
+                "培养方案"
+            ]
+        },
+        {
+            "id": "https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/en/blog/Laboratory-selection-regulations",
+            "content_html": "",
+            "url": "https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/en/blog/Laboratory-selection-regulations",
+            "title": "二、实验室培养方案",
+            "date_modified": "2024-08-07T00:00:00.000Z",
+            "author": {
+                "name": "寒冰"
+            },
+            "tags": [
+                "实验室",
+                "章程",
+                "培养方案"
+            ]
+        }
+    ]
+}
