@@ -4,8 +4,8 @@
   <ShortName>山西农业大学嵌入式实验室</ShortName>
   <Description>Search 山西农业大学嵌入式实验室</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/img/LabIconss.png</Image>
-  <Url type="text/html" method="get" template="https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/opensearch.xml" />
-  <moz:SearchForm>https://meowrain.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://lcekold.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/img/LabIconss.png</Image>
+  <Url type="text/html" method="get" template="https://lcekold.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://lcekold.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/opensearch.xml" />
+  <moz:SearchForm>https://lcekold.github.io/Embedded_Laboratory_of_Shanxi_Agricultural_University/</moz:SearchForm>
 </OpenSearchDescription>
